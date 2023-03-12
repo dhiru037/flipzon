@@ -1,5 +1,5 @@
 # flipzon
-An E-Commerce Website similar to Amazon, made using MERN stack. Includes features such as Admin dashboard, Search bar and filters, etc.
+An E-Commerce Website similar to Amazon, made using MERN stack. Includes features such as Admin dashboard, Search bar and filters, Admin access to add, delete and edit products, and much more!
 <img width="1252" alt="Screenshot 2023-02-28 at 8 22 58 PM" src="https://user-images.githubusercontent.com/93209461/224540860-76b280cb-dcbf-4ab9-9efa-e3ff64ecdd27.png">
 <img width="1204" alt="Screenshot 2023-02-28 at 8 22 44 PM" src="https://user-images.githubusercontent.com/93209461/224540895-5c7d0100-1fa9-4e22-9384-0443ed58a59e.png">
 <img width="1215" alt="Screenshot 2023-02-28 at 8 21 39 PM" src="https://user-images.githubusercontent.com/93209461/224540903-3b6cb6e0-e65a-4f70-aeb0-ae6aa158a443.png">
